@@ -11,7 +11,7 @@ This project implements a Django API to manage users, accounts, and debit cards.
 
 ## Instructions to Run on Windows and macOS
 
-1. Clone this repository: `git clone https://github.com/carosoto1/challenge2`
+1. Clone this repository: `git clone https://github.com/carosoto1/challenge3`
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the virtual environment:
    - Windows: `venv\Scripts\activate`
